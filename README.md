@@ -1,6 +1,6 @@
 # gulp-shot [![Build Status](https://secure.travis-ci.org/bernardog/gulp-shot.png?branch=master)](http://travis-ci.org/bernardog/gulp-shot)
 
-A simple way to kick start gulp based web app projects
+A simple way to kick start gulp based web app projects.
 
 ## Getting Started
 Install the module with: `npm install gulp-shot`
