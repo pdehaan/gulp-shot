@@ -1,7 +1,7 @@
 {
   "name": "gulp-shot",
   "description": "A simple way to kick start gulp based web app projects",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "homepage": "https://github.com/bernardog/gulp-shot",
   "author": {
     "name": "Bernardo Gurgel Filho",
