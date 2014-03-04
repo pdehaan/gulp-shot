@@ -21,7 +21,7 @@
     }
   ],
   "main": "lib/gulp-shot",
-  "preferGlobal": "true",
+  "preferGlobal": true,
   "bin": {
     "gulpshot": "lib/gulp-shot.js"
   },
@@ -41,5 +41,7 @@
     "grunt-contrib-watch": "~0.5.3",
     "grunt": "~0.4.2"
   },
-  "keywords": []
+  "keywords": [
+    "gulpfriendly"  
+  ]
 }
